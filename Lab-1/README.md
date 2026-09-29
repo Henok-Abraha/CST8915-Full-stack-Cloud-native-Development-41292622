@@ -11,7 +11,6 @@
 
 [Watch Demo Video](hhttps://www.youtube.com/watch?v=RypCBSfzQVo)
 
-
 ---
 
 ## Technical Explanations
